@@ -21,6 +21,10 @@ D (DEC) - Geomagnetic Declination (Magnetic Variation)
 
 make: (Linux Ubuntu 16)
 
+git clone https://github.com/amirhosseinalikhahm/World-Magnetic-Model-2015---2020
+
+cd World-Magnetic-Model-2015---2020
+
 make
 
 ./WMM
